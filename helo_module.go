@@ -1,5 +1,5 @@
 package gotwentytwentytwo
 
 func HeloModule() string {
-	return "HeloModule"
+	return "Helo module updated "
 }
